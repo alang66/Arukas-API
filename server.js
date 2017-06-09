@@ -215,7 +215,7 @@ function build_ssh(obj){
     var group_name = 'Arukas-SSR';
     var group_name_base64 = 'QXJ1a2FzLVNTUg';
     var remark = 'ss.duanya.xin';
-    var remark_base64 = 'UlVZTy5uZXQ';
+    var remark_base64 = 'c3MuZHVhbnlhLnhpbg==';
     if(!obj)
         return null
     var pwd_base64 = new Buffer(obj.password).toString('base64');
