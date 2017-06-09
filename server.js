@@ -214,7 +214,7 @@ function get_ss_data(_appid, data, callback) {
 function build_ssh(obj){
     var group_name = 'Arukas-SSR';
     var group_name_base64 = 'QXJ1a2FzLVNTUg';
-    var remark = 'RUYO.net';
+    var remark = 'ss.duanya.xin';
     var remark_base64 = 'UlVZTy5uZXQ';
     if(!obj)
         return null
