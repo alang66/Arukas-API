@@ -1,6 +1,6 @@
 # 特别说明
 
-本分支代码不是部署 SSR/SS 
+本分支代码不是部署 SSR/SS 如需部署请google教程
 
 SS： https://github.com/malaohu/ss-with-net-speeder
 
