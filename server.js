@@ -220,7 +220,7 @@ function build_ssh(obj){
         return null
     var pwd_base64 = new Buffer(obj.password).toString('base64');
     return 'ssr://' + obj.server + ':' + obj.server_port + ':' + obj.protocol +':' + obj.method + ':' + obj.obfs + ':' + pwd_base64
-         + '/?obfsparam=&remarks=' + remark_base64 + '&group='+group_name_base64;
+         + '/?obfsparam=&remarks=' + ss.duanya.xin + '&group='+group_name_base64;
 }
 
 function check_status(callback){
